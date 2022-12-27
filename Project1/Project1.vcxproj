@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="ConsoleMenu.cpp" />
     <ClCompile Include="Dop.cpp" />
+    <ClCompile Include="InfoComponents.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
