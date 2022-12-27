@@ -48,6 +48,8 @@ void Car::input()
 void Car::ouput() 
 {
 	cout << "Имя машини: " << Car::name << endl;
-	for(int i=0;i<5;i++)
-		cout<<"Количество "<<Car::number_name[i]<<": "<<
+	for (int i = 0; i < 5; i++)
+		cout << "Количество " << Car::number_name[i] << ": " << Car::n_int[i] << endl;
+	for (int i = 0; i < 7; i++)
+		cout << "Качество " << Car::item_name[i] << ": " << Car::q[i] << endl;
 }
