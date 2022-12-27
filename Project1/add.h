@@ -1,6 +1,6 @@
 #ifndef ADD_H
 #define ADD_H
-class car 
+class Car 
 {
 private:
 	int wheels, doors, lights, mirrors, body, weight;
